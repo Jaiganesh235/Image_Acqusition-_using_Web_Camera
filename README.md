@@ -1,5 +1,5 @@
 # Image-Acquisition-from-Web-Cameraa
-# AIM:
+## AIM:
 
 To write a python program using OpenCV to capture the image from the web camera and do the following image manipulations.
 i) Write the frame as JPG 
@@ -7,9 +7,9 @@ ii) Display the video
 iii) Display the video by resizing the window
 iv) Rotate and display the video
 
-# SOFTWARE USED:
+## SOFTWARE USED:
 Anaconda - Python 3.7
-# ALGORITHM:
+## ALGORITHM:
 ### Step 1:
 Use cv2.VideoCapture(0) to access web camera
 <br>
@@ -30,7 +30,7 @@ Use cv2.imshow to show the video
 End the program and close the output video window by pressing 'q'.
 <br>
 
-# PROGRAM:
+## PROGRAM:
 ``` Python
 ### Developed By: S.JAIGANESH
 ### Register No:212222240037
@@ -111,7 +111,7 @@ cv2.destroyAllWindows()
 
 
 ```
-# OUTPUT:
+## OUTPUT:
 
 ### i) Write the frame as JPG image
 
@@ -141,5 +141,5 @@ cv2.destroyAllWindows()
 </br>
 
 
-# RESULT: 
+## RESULT: 
 Thus the image is accessed from webcamera and displayed using openCV.
